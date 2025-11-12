@@ -14,7 +14,7 @@ html {
 }
 
 h1 {
- @include mixin.button-theme($black,$brand-yellow);
+ @include mixin.button-base-black();
 }
 // h1 {
 //  @include mixin.button-theme($black,$brand-yellow);
