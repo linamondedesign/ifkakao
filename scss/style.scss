@@ -16,3 +16,6 @@ html {
 h1 {
  @include mixin.button-theme($black,$brand-yellow);
 }
+// h1 {
+//  @include mixin.button-theme($black,$brand-yellow);
+// }
